@@ -1,0 +1,9 @@
+{
+	"name": "manta-mock-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbf9f590-07b0-46b8-a63d-c1849648efb6",
+		"tenantId": "622ff74d-2654-42e0-adc9-79dad3f0893b"
+	}
+}
